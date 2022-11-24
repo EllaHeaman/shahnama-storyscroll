@@ -19,7 +19,7 @@
     "geometry":{"type":"Point","coordinates":[1385,1360]}},
   {"type":"Feature","properties":
     {"id":3,
-    "chapter":"Chapter 3: Rock",
+    "chapter":"Chapter 3: Zahhaks story",
     "zoom":4,
     "image":"img/pictorial-st-louis-water-works.png",
     "source-credit":"Source: StLouis-MO.gov",
