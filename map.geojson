@@ -28,13 +28,13 @@
     "geometry":{"type":"Point","coordinates":[3145,1680]}},
   {"type":"Feature","properties":
     {"id":4,
-    "chapter":"Chapter 4: Bird",
+    "chapter":"Mount Damavand",
     "zoom":5,
     "image":"img/pictorial-st-louis-insane-asylum-03.png",
     "source-credit":"Source: Eric Erickson via Ancestry.com",
     "source-link":"http://rootsweb.ancestry.com/~asylums/stlouis_mo/index.html",
-    "description":"\"...and from the Insane Asylum on the southwest... \""},
-    "geometry":{"type":"Point","coordinates":[5225,1185]}},
+    "description":"Mount Damavand is the mountain Zahhak is being nailed to in the image shown and often appears in many ancient legends and stories as a symbol of the Persian homeland. Mount Damavand is a real mountain in Iran that is the highest peak in Iran and is a volcano, showing how Firdowsi took inspiration from his surroundings. Zahhak's relationship with Mount Damavand isn't just interesting because it is where he is imprisoned by Faridun but also because he has a family connection to the mountain. If you look at Zahhak's family history, Zahhak's great-grandfather was Gayumars, who also appears in the Shahnama as the first ruler of Iran, ruling from Mount Damavand. Gayumars was a very fair and just ruler who the people liked and respected and it is said that he brought the arts of life to the culture, such as food and dress. When we compare this style of ruling to Zahhak's it is the complete opposite, where Zahhak was seen as evil, Gayumars was liked and respected. If we compare the two styles of ruling and the two king's relationship with the mountain, we see quite a difference. Gayumars was a fair and respected ruler that ruled from the top of the mountain seen by everyone and physically held above them. Compared to Zahhak who is imprisoned by the mountain, locked away inside to be forgotten. Today there is a local myth about Mount Damavand that the vapor that comes from it is Zahhaks breath, the noises his groans, the lava his eyes, and the yellow water that comes from it his urine, showing how the stories and legends continue into today."},
+    "geometry":{"type":"Point","coordinates":[3066,848]}},
   {"type":"Feature","properties":
     {"id":5,
     "chapter":"Chapter 5: Flags & Standards",
