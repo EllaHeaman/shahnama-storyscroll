@@ -26,7 +26,7 @@
     "geometry":{"type":"Point","coordinates":[3145,1680]}},
   {"type":"Feature","properties":
     {"id":4,
-    "chapter":"Mount Damavand",
+    "chapter":" Chapter 4: Mount Damavand",
     "zoom":2,
     "image":"img/pictorial-st-louis-insane-asylum-03.png",
     "source-credit":"Source: Eric Erickson via Ancestry.com",
