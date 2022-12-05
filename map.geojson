@@ -1,4 +1,4 @@
-{"type":"FeatureCollection", "features":
+{"type":"FeatureCollection", "features":[
   {"type":"Feature","properties":
     {"id":1,
     "chapter":"Chapter 1: Introduction",
@@ -7,8 +7,7 @@
     "source-credit":"Source: Library of Congres",
     "source-link":"https://lccn.loc.gov/rc01001392",
     "description":"The Shahnama is a book of stories written for kings to teach lessons about life, written by Firdowsi. It has been nicknamed the book of kings because the stories within it are supposed to teach young princes life lessons on how to become good and fair rulers. Most of the stories within revolve around kings and heroes of the Persian world. Firdowsi created the Shahnama because he was commissioned by king Shah Rusk's three sons: Baysunghur, Ibrahim-Sultan, and Muhaammad Juki (Sims 1992, 43). Many other Shahnama have also been created since, with each representing the cultural views and beliefs of that time, and they are a source of culture and identity (Sims 1992, 43), with owning a Shahnama being a sign of status in the Timurid period (Simpson 2013). Since the Shahnama was so immensely popular, its stories spread to many other places like India, the Ottoman Empire, and Turkey (Simpson 2013), where the stories from the Shahnama were also celebrated and enjoyed. Showing how one culture can appreciate another's art and use it as a source of inspiration for their own works, the Shahnama inspired the creation of many other works of art and poems with similar focuses Simpson 2013)."},
-   "geometry":{"type":"Point","coordinates":[1145,1050]}},
-  {"type":"FeatureCollection", "features":
+    "geometry":{"type":"Point","coordinates":[1145,1050]}},
   {"type":"Feature","properties":
     {"id":2,
     "chapter":"Chapter 2: Ibrahim Sultan Shahnama",
@@ -18,9 +17,8 @@
     "source-link":"https://lccn.loc.gov/rc01001392",
     "description":"Many different versions of the Shahnama have been created over time. The one we are looking at is Ibrhims Shahnama which was commissioned by Ibrhims’s son of king Shah Rusk, and whose brothers each also commissioned one (Sims 1992,43). Where they all cover the same stories, they each have their own focus shown in the differences in their illustrations and by what ones are shown (Simpson 2013). Ibrahim's contains 47 of the 99 illustrations between his and his brother’s versions (Simpson 2013; Sims 1992,45), which is almost half; Ibrahim’s version also out of him and his brothers is the one that had the most influence during its time in Timurid history (Sims 1992,56). I would argue this could be because it had so many illustrations so even those who could not read could flip through and look at the photos still allowing them to understand the stories. Unfortunately, Ibrahim's Shahnama is also the most damaged this is for many reasons; it has been taken apart with the photos being removed from the physical manuscript, and much of it was painted with green paint from the Timurid era that contains copper carbonate burning through the paper, as well as many of the scenes have been repainted to try and restore it which has altered their appearance (Sims 1992,45-46). Ibrahim's version has no illustrations of princely duties (Sims 1992,48), but instead has many depicting hunting, feasting, and battles (Sims 1992,46), with 29 out of his 47 illustrations related to these themes, and the majority of them show battels 20 of the 29 (Sims 1992,47). Ibrahim's version also has a more limited and toned downed palette with colors like lavender, pink, green, blue, and gray tones being popular throughout, compared to some of his brothers who used rich bold colors in their versions (Sims 1992,47)."},
     "geometry":{"type":"Point","coordinates":[4829,1096]}},
-  {"type":"FeatureCollection", "features":
   {"type":"Feature","properties":
-    {"id":1,
+    {"id":3,
     "chapter":"Chapter 3: Zahhaks story",
     "zoom":3,
     "image":"img/pictorial-st-louis.png",
@@ -73,7 +71,7 @@
     "source-link":"https://lccn.loc.gov/rc01001392",
     "description":"In dividing the work into pages, it will be seen that in, cases where a building is but partially drawn on one page, it is given complete on the adjoining page. In view of the magnitude of the work, the originality of the idea, and the difficulties encountered in carrying it out, it is hoped that if any mistakes or errors have crept into the plates or pages, they will be looked upon with a lenient eye by an indulgent public.\" (Dry & Compton)"},
      "geometry":{"type":"Point","coordinates":[0,7026]}},
-    {"type":"Feature","properties":
+  {"type":"Feature","properties":
    {"id":9,
     "chapter":"Chapter 9: How to cite this",
     "zoom":1,
